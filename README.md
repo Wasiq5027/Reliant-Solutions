@@ -28,10 +28,5 @@ for customers to get in touch.
 - Hosting: [your host]
 - Domain: reliant.pk
 
-## Screenshots
-| Home | Services | Contact |
-|------|----------|---------|
-| ![](docs/home.png) | ![](docs/services.png) | ![](docs/contact.png) |
-
 ## My Role
 [Design / development / deployment / maintenance]
