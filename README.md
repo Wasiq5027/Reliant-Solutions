@@ -5,7 +5,8 @@ maintenance and servicing of home and commercial appliances across Pakistan.
 
 🔗 **Live site:** https://reliant.pk
 
-![Homepage screenshot](docs/homepage.png)
+![Homepage screenshot](fullpage_snapshot_reliant_pk_2026-10-04-15-33-05.png
+)
 
 ## About
 Reliant Solutions installs and services flat panel TVs, air conditioners,
